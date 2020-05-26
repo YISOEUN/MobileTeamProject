@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"/>
+
+    <item
+        android:id="@+id/navigation_rain"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_rain"/>
+
+    <item
+        android:id="@+id/navigation_umb"
+        android:icon="@drawable/ic_beach_access_black_24dp"
+        android:title="@string/title_umb"/>
+
+    <item
+        android:id="@+id/navigation_alarm"
+        android:icon="@drawable/ic_access_alarm_black_24dp"
+        android:title="@string/title_alarm"/>
+
+    <item
+        android:id="@+id/navigation_set"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_setting"/>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">term</string>
+    <string name="title_home">Home</string>
+    <string name="title_rain">Rain</string>
+    <string name="title_umb">Umbrella</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_setting">Setting</string>
+</resources>
