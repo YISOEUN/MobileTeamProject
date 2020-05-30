@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <PreferenceCategory android:title="환경설정">
+        <SwitchPreference
+            android:key="message"
+            android:title="메시지 알림"/>
+
+        <SwitchPreference
+            android:key="sound"
+            android:title="소리"
+            android:summary="소리로 알림을 받으려면 체크하세요."/>
+
+        <SwitchPreference
+            android:key="vibrate"
+            android:title="진동"
+            android:summary="진동울림으로 알림을 받으려면 체크하세요."/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
